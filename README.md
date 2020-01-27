@@ -21,3 +21,6 @@ cd xcode-icon-generator
 ### Notes
 * If you would like to adjust the sizes or names generated, navigate to the "sizes" directory and edit the names (on the left) and sizes (in pixels, on the right).  Each image size file must occupy its own line.
 * If the output directory does not exist, it will auto-create it.
+
+## Credits
+* Credit to smallmuou (smallmuou@<i></i>163.com) for work on the original script, ios-icon-generator.

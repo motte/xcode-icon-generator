@@ -84,7 +84,7 @@ myos() {
 #########################################
 
 VERSION=2.0.0
-AUTHOR=smallmuou
+AUTHOR=motte
 
 #########################################
 ###             ARG PARSER            ###
@@ -98,10 +98,10 @@ $prog version $VERSION by $AUTHOR
 USAGE: $prog [OPTIONS] srcfile dstpath
 
 DESCRIPTION:
-    This script aim to generate iOS/macOS/watchOS APP icons more easier and simply.
+    This script helps generate iOS/macOS/watchOS app icons more simply.
 
-    srcfile - The source png image. Preferably above 1024x1024
-    dstpath - The destination path where the icons generate to.
+    srcfile - The source png image. Preferably above 1024x1024.
+    dstpath - The destination path for the generated icons.
 
 OPTIONS:
     -h      Show this help message and exit
